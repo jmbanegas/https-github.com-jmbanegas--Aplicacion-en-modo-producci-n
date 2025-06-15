@@ -4,7 +4,7 @@
 **Despliegue en Producción de una Aplicación Web con Docker y NGINX**
 
 ## 2. Tiempo de duración
-Aproximadamente **180 minutos**, distribuidos entre la creación de archivos, configuración de servicios, construcción de imágenes y pruebas de despliegue.
+Aproximadamente **220 minutos**, distribuidos entre la creación de archivos, configuración de servicios, construcción de imágenes y pruebas de despliegue.
 
 ## 3. Fundamentos
 
